@@ -1,0 +1,39 @@
+{
+  "companyName": "Weird Deals",
+  "headOffice": "Barrie, Ontario",
+  "established": 2001,
+  "active": true,
+  "newDeals": [
+    {
+      "name": "Sushi cat costume",
+      "price": 20.99,
+      "description": "When sushi is life but your cat is too",
+      "features": [
+        "Reminds tou of sushi",
+        "extra cute cat"
+      ],
+      "image": "c.jpg"
+    },
+    {
+      "name": "Dentures shoe",
+      "price": 30,
+      "description": "Put your money where your mouth is",
+      "features": [
+        "Extra swag points",
+        "Too cool for school",
+        "Become your own toothy fairy"
+      ],
+      "image": "b.jpg"
+    },
+    {
+      "name": "Shoe umbrella",
+      "price": 15.99,
+      "description": "Tahe your shoe game to the next level",
+      "features": [
+        "Wet feet are now a myth",
+        "Move to the rythem of the drop"
+      ],
+      "image": "a.jpg"
+    }
+  ]
+}
